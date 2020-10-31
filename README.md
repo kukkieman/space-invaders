@@ -1,2 +1,2 @@
 # space-invaders
-Space Invaders game in Unity
+Space Invaders game recreated in Unity 3D
